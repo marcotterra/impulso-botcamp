@@ -1,0 +1,8 @@
+.logo-botcamp {
+  background-image: url('../../assets/images/botcamp.png');
+  background-size: cover;
+  width: 248px;
+  height: 39px;
+  display: block;
+  margin-top: 120px;
+}
