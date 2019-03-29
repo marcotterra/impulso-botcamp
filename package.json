@@ -1,0 +1,11 @@
+{
+  "name": "botcamp-impulso",
+  "version": "1.0.0",
+  "description": "Code of impulso.network botcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "marcotterra",
+  "license": "MIT"
+}
